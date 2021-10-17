@@ -1,0 +1,102 @@
+Assembly to C code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FUNC 1
+	pointer to the bottom of the stack
+	register with A inside - Intermediate calculations
+	void pointer - move the pointer to the top of the stack?
+	store the A value
+
+	"executing func1" - is stored in memmory
+	- puts library function (printf)
+
+
+
+
+
+
+return
+
+
+FUNC 2
+	push to register
+	push to register
+	subtract from register start pointer
+	move a value into memmory
+	move a value into memmory
+	"executing func1" - is stored in memmory
+	- puts library function (printf)
+
+
+
+
+
+
+
+
+
+return
+
+
+
+FUNC 3
+
+
+
+
+
+"executing func1" - is stored in memmory
+	- puts library function (printf)
+
+
+
+
+
+
+
+
+
+
+return
+
+
+
+FUNC 4
+
+
+
+
+
+
+
+
+
+return
