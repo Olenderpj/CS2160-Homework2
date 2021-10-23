@@ -1,0 +1,3 @@
+/Users/pjolender/Github/CS 2160/CS2160-Homework2/whoami.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pjolender/Github/CS 2160/CS2160-Homework2/whoami.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pjolender/Github/CS 2160/CS2160-Homework2/whoami.c/cmake-build-debug/CMakeFiles/whoami_c.dir
